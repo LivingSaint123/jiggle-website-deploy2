@@ -1,0 +1,250 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+*{
+    margin: 0;
+    padding: 0;
+}
+.section-two{
+    background-color: #ddddfa;
+}
+.sectionTwoTextBox{
+    padding-top: 8em;  
+}
+.sectionTwoImagBox{
+    padding-top: 2em; 
+    
+}
+.sectionThreeImageBox{
+    
+}
+.section-four{
+    background-color: #ddddfa;
+}
+.containerfive{
+    background-color: #ddddfa;
+
+}
+
+.sectionFourTextBox{
+    padding-top: 8em;
+}
+.sectionFourImageBox{
+    padding-top: 2em;
+}
+
+.sectionFiveTextBox{
+    padding-top: 8em;
+}
+
+.sectionFiveImagBox{
+    padding-top: 2em;
+}
+
+.section-eight{
+    background-color: rgb(44, 44, 129) !important; 
+    width: 100%; 
+    padding-bottom: 4.5em;
+    margin-top: 5;
+}
+.sectionEightTextBox{
+    margin-top: 6em;
+    color: white;
+}
+.sectionEightImagBox{
+    margin-top: 2em;
+}
+.sectionEightTextBox > .btn{
+    background-color: white;
+    color: rgb(26, 26, 122);
+    font-weight: bold;
+}
+.sectionnine{
+    background: #ddddfa;
+}
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.get-app{
+    padding: 18px;
+    background-color:blue !important;
+    color: white !important;
+    font-size: 19px !important;
+    font-weight: bold;
+    
+}
+.nav-link{
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+
+/* .CardIcon{
+    
+        font-size: 60px;
+        margin: 20px auto;
+        height: 100px;
+        width: 100px;
+        padding: 20px;
+        padding-bottom: 1em;
+        padding-bottom: 1em;
+        border: 1px solid #fff;
+        border-radius: 50%;
+        background: #ddddfa;
+} */
+/* .containercard{
+    background: #ddddfa;
+    
+}
+
+.sectionEightTextBox{
+    padding-top: 12em;
+    color: whitesmoke !important;
+}
+.sectionEightImagBox{
+    padding-top: 2em;
+    
+}
+
+.sectionEightTextBox .btn{
+    margin-top: 1em;
+    margin-bottom: 4em;
+    background-color: whitesmoke !important;
+    color: darkblue !important;
+    font-weight: bold;
+
+}
+.ceoimage{
+    border-radius: 50%;
+}
+.card-text{
+    font-size: 16px;
+}
+.sectionnine{
+    width: 100%;
+}
+.testimonial{
+    width: 100%;
+}
+
+
+
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar-brand img{
+    height: 40px;
+    padding-left: 30px;
+
+}
+.navbar-nav li{
+    padding: 0 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+
+
+}
+.navbar-nav li a{
+    float: right;
+    text-align: left;
+
+
+}
+.get-app{
+    padding: 18px;
+    background-color:blue !important;
+    color: white !important;
+    font-size: 19px !important;
+    
+}
+
+.containernine{
+    background-color: #ddddfa !important;
+    background-size: cover;
+    width: 100% !important;
+}
+.colmsmartwallert{ */
+    
+
+
+@media(max-width:768px){
+    .mummyj{
+        display: none;
+    }
+    .sectionEightImagBox{
+        display: none;
+    }
+    body{
+        margin: 0;
+    }
+    .row > div{
+        width: 100vw;
+        margin: 0;
+        margin-right: 0;
+    }
+    .sectionTwoImagBox{
+        width: 100% !important;
+    }
+    #sectionThreeImageBox{
+        width: 100% !important;
+    }
+    .mediamarginleft{
+        margin-left: 0;
+    }
+    .sectionFiveImagBox{
+        display: flex;
+        justify-content: center;
+    }
+    .sectionFiveTextBox{
+        
+        text-align: center;
+    }
+    .sectionSixImageBox{
+        display: flex;
+        justify-content: center;
+
+    }
+    .textboxdeal{
+        text-align: center;
+    }
+    .sectionTwoImagBox{
+        display: flex;
+        justify-content: center;
+    }
+    .sectionTwoTextBox{
+        text-align: center;
+    }
+    .sectionThreeImageBox{
+        display: flex;
+        justify-content: center;
+    }
+    .section3textbox{
+        text-align: center;
+    }
+    .getitco{
+        display: flex;
+        justify-content: center;
+        
+    }
+    .getitco > img{
+        width: 6em;
+    }
+    .mediamarginleft{
+        margin-left: 3em;
+    }
+    
+    
+}
+ 
